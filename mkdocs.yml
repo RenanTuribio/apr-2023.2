@@ -1,3 +1,19 @@
 site_name: Aplicação de Redes de Computadores
 site_author: Renan Turibio
 
+theme:
+  name: material
+  language: pt
+  
+repo_name: RenanTuribio/apr-2023.2
+repo_url: https://github.com/RenanTuribio/apr-2023.2
+
+nav:
+  - index.md
+  - papel.md
+  - pedra.md
+  - tesoura.md
+
+plugins: 
+  - mermaid2
+  
